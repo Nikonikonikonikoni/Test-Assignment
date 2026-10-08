@@ -1,6 +1,5 @@
 # Test-Assignment
-## student
-Catherine
+## student Catherine
 
 This is a test assignment for the Data Science in EES course.
 
