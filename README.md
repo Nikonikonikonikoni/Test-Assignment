@@ -1,8 +1,8 @@
 # Test-Assignment
 ## student Catherine
 
-![course logo][id]
-[id]:figures/img.jpg"DataSciEES_logo.jpg"
+![course logo][DataSciEES_logo.jpg]
+
 
 This is a test assignment for the Data Science in EES course.
 
