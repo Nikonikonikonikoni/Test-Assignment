@@ -1,5 +1,5 @@
 # Makes a flower pattern
-
+# name: Catherine
 t  <- 1:500
 p <- (1 + sqrt(5))*pi
 
