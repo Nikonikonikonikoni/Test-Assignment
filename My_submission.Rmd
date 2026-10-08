@@ -8,3 +8,7 @@ output: html_document
 1. Shows the history of changes to file
 2. Possible to restore to the previous version if any mistake occurs
 
+## Simple R calculation
+```{r}
+1+1
+```
