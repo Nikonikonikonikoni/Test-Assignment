@@ -3,6 +3,8 @@
 
 ![course logo](DataSciEES_logo.jpg)
 
+## My report
+[My R markdown report](My_file/My_submission.html)
 
 This is a test assignment for the Data Science in EES course.
 
